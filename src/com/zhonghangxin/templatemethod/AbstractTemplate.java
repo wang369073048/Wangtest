@@ -13,6 +13,7 @@ public abstract class AbstractTemplate {
         System.out.println("1111111111");
         System.out.println("33333333333");
         System.out.println("44444444444");
+		System.out.println("55555555555");
 	}
 	public abstract int abstractMethod();
 	
