@@ -7,6 +7,7 @@ public abstract class AbstractTemplate {
 		int b = abstractMethod();
 		int c = a * b;
 		System.out.println(c);
+		System.out.println(6666666666666666666);
 		
 	}
 	public abstract int abstractMethod();
